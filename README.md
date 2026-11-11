@@ -1,4 +1,4 @@
-# secure_http
+# rpl_keamanan
 
 Praktikum Pemrograman Mobile (ST407) – Pertemuan 6: Prinsip RPL & Keamanan Kode.
 
